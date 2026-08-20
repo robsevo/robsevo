@@ -18,6 +18,8 @@ Self-taught, shipping end-to-end: React / Next.js front ends, Node and Python se
 unglamorous work of keeping it all running. I build with LLM coding agents and MCP tooling, and I've
 built the agent tooling itself.
 
+All of it solo so far. I'm looking to do this work as part of a team.
+
 ### 🛠️ Building
 
 | | | |
