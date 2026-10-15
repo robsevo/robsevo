@@ -24,11 +24,11 @@ All of it solo so far. I'm looking to do this work as part of a team.
 
 | | | |
 |---|---|---|
-| 📺 | **tvspot** · streaming that keeps working when the streams don't | *Next.js 15 · React 19 · Vercel · Tizen* |
-| 🤖 | **Serge** · a coding agent that shops for its own models | *TypeScript · Bun · MCP* |
-| 🏒 | **Barnguru** · a hockey season, simulated a possession at a time | *Python · FastAPI · Rust* |
+| 📺 | **[tvspot](https://github.com/robsevo/tvspot-demo)** · streaming that keeps working when the streams don't | *Next.js 15 · React 19 · Vercel · Tizen* |
+| 🤖 | **[Serge](https://github.com/robsevo/serge-brain)** ([engine](https://github.com/robsevo/serge-engine)) · a coding agent that shops for its own models | *TypeScript · Bun · MCP* |
+| 🏒 | **[Barnguru](https://github.com/robsevo/barnguru-demo)** · a hockey season, simulated a possession at a time | *Python · FastAPI · Rust* |
 | 📊 | **HUB VOX** · 57,000 formulas standing in for a database | *Excel / LibreOffice, zero macros* |
-| 📝 | **Note Builder** · click the scenario, get the note | *Vanilla JS, zero dependencies* |
+| 📝 | **[Note Builder](https://github.com/robsevo/note-builder)** · click the scenario, get the note ([try it](https://robsevo.github.io/note-builder/note-builder.html)) | *Vanilla JS, zero dependencies* |
 
 ### 🧰 Stack
 
