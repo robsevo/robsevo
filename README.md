@@ -20,10 +20,17 @@ built the agent tooling itself.
 
 All of it solo so far. I'm looking to do this work as part of a team.
 
-### 🛠️ Building
+### 🔭 Building now
+
+🌌 **OPUS** · a god-sim for Steam. You light the Big Bang and a universe runs on real physics,
+tuned to be fun. Watch life appear and evolve across it, or lead one people from its first tribe
+through the ages to the stars, RTS style. *JavaScript · three.js*
+
+### 🛠️ Built
 
 | | | |
 |---|---|---|
+| 🔮 | **[Orbz](https://github.com/robsevo/orbz)** · AI coworkers that need the big model less every week | *TypeScript · React · WebGL · Python · MCP* |
 | 📺 | **[tvspot](https://github.com/robsevo/tvspot-demo)** · streaming that keeps working when the streams don't | *Next.js 15 · React 19 · Vercel · Tizen* |
 | 🤖 | **[Serge](https://github.com/robsevo/serge-brain)** ([engine](https://github.com/robsevo/serge-engine)) · a coding agent that shops for its own models | *TypeScript · Bun · MCP* |
 | 🏒 | **[Barnguru](https://github.com/robsevo/barnguru-demo)** · a hockey season, simulated a possession at a time | *Python · FastAPI · Rust* |
@@ -37,6 +44,7 @@ All of it solo so far. I'm looking to do this work as part of a team.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![three.js](https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
