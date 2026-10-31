@@ -22,7 +22,7 @@ All of it solo so far. I'm looking to do this work as part of a team.
 
 ### 🔭 Building now
 
-🌌 **OPUS** · a god-sim for Steam. You light the Big Bang and a universe runs on real physics,
+🌌 **AFTERALL** · a god-sim for Steam. You light the Big Bang and a universe runs on real physics,
 tuned to be fun. Watch life appear and evolve across it, or lead one people from its first tribe
 through the ages to the stars, RTS style. *JavaScript · three.js*
 
